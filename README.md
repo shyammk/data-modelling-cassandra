@@ -1,5 +1,5 @@
 
-# Sparkify Cassandra Database Setup
+# Sparkify Analytics Database Setup - Apache Cassandra
 
 
 ## Introduction
